@@ -14,7 +14,11 @@ body{
     scroll-snap-align: start;
 }
 #one{
-    background-color: #FFDDDD;
+    background-image: url('/assets/poster.jpg');
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-color: #B07957;
 }
 #two{
     background-color: #DDDDFF;
